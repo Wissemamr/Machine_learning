@@ -66,7 +66,7 @@ def get_gradient(X : pd.DataFrame, y : pd.DataFrame, y_pred : pd.DataFrame) -> L
 
 
 
-def gradient_descent()
+# def gradient_descent()
 
 
     
