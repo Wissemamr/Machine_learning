@@ -8,7 +8,7 @@ In this lab, we will explore and implement linear regression from scratch, its m
 | Model             | $ F = X \theta $          | 
 | Loss function     |  $ J(\theta) = \frac{1}{2n} \sum_{i=1}^{n} (X\theta - Y)^2  $ | 
 |  Gradient         |  $  \nabla J(\theta) = \frac{1}{m} X^T(X\theta - Y)$ | 
-|  Gradient descent |  $ \theta = \theta - \alpha \cdot \frac{1}{m} X^T(X\theta - Y)$ | 
+|  Gradient descent |  $ \theta = \theta - \alpha \frac{\partial J(\theta)}{\partial \theta}$ | 
 
 
 
