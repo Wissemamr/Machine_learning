@@ -9,4 +9,16 @@ This repo contains the implementation of the labs and practical work of the modu
     - Exploratory data analysis
     - Visualisation 
 
-### 2. 
+### 2. Linear regression :
+    - Gradient descent implementation to optimize the loss function
+    - The normal equation to find the best parameters that minimize the loss function
+
+
+### 3. Support vector machine :
+
+
+
+### 4. K-Nearest neighbors :
+    - Implementation of k-NN from scratch
+    - Implementation of K-NN with scikitl-learn
+    - Performing binary classification using K-NN
