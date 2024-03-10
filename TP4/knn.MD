@@ -1,5 +1,5 @@
 
-## Lab 04 : K-Nearest Neighbor
+## Lab 04 : K-Nearest Neighbors
 
 ## Content
 ---
