@@ -28,3 +28,6 @@ This repo contains the implementation of the labs and practical work of the modu
 - Implementing and visuailzing decison trees `scikit-learn`.
 - Analyzing the effect of the maximum tree depth and criterion on the train and test accuracy.
 - Plot decision tree graphs of a given dataset.
+
+
+### 6. Random forests : 
