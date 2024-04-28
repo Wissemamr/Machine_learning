@@ -30,4 +30,17 @@ This repo contains the implementation of the labs and practical work of the modu
 - Plot decision tree graphs of a given dataset.
 
 
-### 6. Random forests : 
+### 6. Naive Bayes : 
+- Implementing a gaussian naive bayes classifier
+- Getting familiar with other types of naive bayes classifiers such as multinomial naive bayes ...
+
+
+
+### 7. Random forests : 
+- Implementing a random forest classifier and performing hyperparameters tuning with grid search.
+
+
+
+### 8. K-means : 
+- 
+
