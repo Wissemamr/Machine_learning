@@ -7,7 +7,7 @@ This repo contains the implementation of the labs and practical work of the modu
 ### 1. Data preprocessing : 
 - Data wrangling
 - Exploratory data analysis on covid dataset
-- Visualisation 
+- Visualization 
 
 ### 2. Linear regression :
 - Gradient descent implementation to optimize the loss function from scratch.
@@ -43,5 +43,5 @@ This repo contains the implementation of the labs and practical work of the modu
 
 ### 8. K-means : 
 - Implementing K-means from scratch
-- Implementing k-means using scikit-leanr and plotting lcustering results.
+- Implementing k-means using scikit-learn and plotting clustering results.
 
