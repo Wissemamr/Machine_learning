@@ -15,6 +15,7 @@ This repo contains the implementation of the labs and practical work of the modu
 
 
 ### 3. Support vector machine :
+- Performing classification with svm model
 
 
 
@@ -44,4 +45,7 @@ This repo contains the implementation of the labs and practical work of the modu
 ### 8. K-means : 
 - Implementing K-means from scratch
 - Implementing k-means using scikit-learn and plotting clustering results.
+
+### 9. Neural Networks :
+- Implementing a perceptron from scratch
 
